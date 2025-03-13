@@ -1,3 +1,3 @@
 # merge-test
 
-Squash merge
+Rebase merge
