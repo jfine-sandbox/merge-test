@@ -1,1 +1,3 @@
 # merge-test
+
+Normal merge
