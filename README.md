@@ -1,3 +1,3 @@
 # merge-test
 
-Normal merge
+Squash merge
